@@ -1,1 +1,0 @@
-# Analisa-data-dengan-Python
