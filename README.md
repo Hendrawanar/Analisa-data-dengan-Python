@@ -1,6 +1,6 @@
 # Dicoding Collection Dashboard ✨
 
-## Setup Environment - Visual Studio COde
+## Setup Environment - Visual Studio Code
 ```
 pip install matplotlib
 pip install seaborn
